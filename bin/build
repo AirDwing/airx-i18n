@@ -1,0 +1,12 @@
+#! /usr/bin/env node
+
+const {
+  LANGUAGES, scanLangModules, saveLangFile, saveIndex, getLangModuleFile
+} = require('../lib');
+
+LANGUAGES.forEach((lang) => {
+  const mods = scanLangModules(lang);
+  const langFile = mods.map(mod => `exports.${mod} = ${JSON.stringify(getLangModuleFile(lang, mod), null, 2)};\n`).join('\n');
+  saveLangFile(lang, langFile);
+});
+saveIndex();

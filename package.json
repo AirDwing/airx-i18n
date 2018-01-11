@@ -1,0 +1,19 @@
+{
+  "name": "@airx/i18n",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "yarn build && yarn lint",
+    "build": "node bin/build",
+    "lint": "eslint --fix src dist",
+    "prepare": "npm start"
+  },
+  "repository": "git@github.com:AirDwing/airx-i18n.git",
+  "author": "Willin Wang <willin@willin.org>",
+  "license": "apache-2.0",
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-dwing": "^1.2.0",
+    "js-yaml": "^3.10.0"
+  }
+}
