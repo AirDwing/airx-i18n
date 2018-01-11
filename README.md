@@ -13,6 +13,7 @@ English Version: [Contributing Guide](./.github/CONTRIBUTING.md)
   2. 相同翻译单词（如 `org: 组织`）不重复出现
   3. 日常用于翻译统一归放于`common`下
 
+p.s. 团队成员进行代码贡献维护时，请勿直接在`master`下进行修改，创建自己的分支进行提交。
 ## 安装及使用
 
 ```bash
