@@ -1,0 +1,45 @@
+title: Route Lib
+params_setting: Parameters Setting
+route_setting: Route Setting
+single_setting: Point Setting
+info: Route Info
+name: Route Name
+location: Location
+max_time: Max Duration
+exp_area: Acreage
+exp_mileage: Expected Mileage
+exp_duration: Expected Duration
+camera_brand: Camera Brand
+camera_ori: Camera Orientation
+point_count: Point Number
+camera_mode: Camera Mode
+waymode: Route Generation Mode
+speed: Flight Speed
+height: Flight Height
+yaw_angle: Yaw Angle
+resolution_ratio: Resolution Ratio
+portraitoverlap: Portrait Overlap
+landscapeoverlap: Landscape Overlap
+wayangle: Main Route angle
+gimbalpitch: Gimbal Pitch
+finished_action: Finished Action
+exit: No Signal Exit Task
+ori_mode_p: Parallel to Main Route
+ori_mode_v: Vertical to Main Route
+shoot_stay: Shoot Stay
+shoot_bytime: Shoot by Time
+shoot_bydistance: Shoot by Distance
+go_home: Auto Return
+no_action: Hover
+point_action: Point Action
+auto_load: Auto Load
+choose: Please Choose the Mapping Mode
+area_mode: Area Mode
+line_mode: Line Mode
+del_comfirm: Comfirm to Delete This Route
+along_line: Along the Route Direction
+along_point: According to Each Point
+scan: Scanning Mode
+inner: Internal Mode
+tip_point: Points is More Than 99
+tip_interval: Photo interval Too Low, Please Lower Flight Overlap <br>  Increase Flight height or Reduce Flight Speed

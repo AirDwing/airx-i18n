@@ -1,0 +1,20 @@
+welcome: Welcome to AirDwing UAV Management System. This guide will help You to have a close look at our system.
+org_create: If you are an administrator of your company or a private user, create an organization first.
+org_join: If your company or team has already created an organization, contact your administrator to add your account into the organization list.
+org_create_btn: Create Organization
+org_join_btn: Have Joined Organization
+device_add_app: You may use the mobile app to automatically fulfill the serial number (Only for the DJI devices)
+device_down_app: Use Android device to download
+device_add_web: You can also add it manually in this website, please fill in the serial number.
+device_add_btn: Add Device
+device_down_btn: Download APP
+safe_title: This system contains No-fly Zone and Policy & Regulations inquiry function for your reference
+safe_tip: Please follow local safely flight policy, do not fly into the No-fly Zone.
+begin_title: Now you can use all the functions of the system
+begin_tip: If the mobile network device\s network is in good condition, the vehicle data wll be transferred automatically. In order to save traffic, video transmission needs to be opened manually.
+begin_enter: Entering The Real-time Monitoring Page
+next: Next Step
+step_org: Create or Join Organization
+step_device: Add Device
+step_safe: Safe Flight 
+step_begin: Start to Fly

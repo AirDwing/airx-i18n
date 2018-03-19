@@ -1,0 +1,28 @@
+home: Home
+route_plan: Route Plan
+fly_record: 
+live: Live Monitor
+history: History Record
+beidou: Beidou Route
+flight_plan: Flight Plan
+flight_apply: Flight Plan Apply
+flight_query: Flight Plan Query
+flight_approve: Flight Plan Approve
+nofly: Nofly Zone
+nofly_apply: Nofly Zone Apply
+nofly_query: Nofly Zone Query
+nofly_approve: Nofly Zone Approve
+device_manage: Device Manage
+device_register: Device Register
+device_query: Device Query
+device_lib: Device Library
+org_manage: Organization Manage
+org_info: Organization Info
+org_member: Organization Member
+org_custom: Custom Manage
+policy: Policies&Regulations
+insurance: Insurance Purchase
+user_info: User Information
+user_auth: User Authentication
+user_modify: User Info Modify
+guide: User Guide

@@ -1,0 +1,39 @@
+login: Login
+clear: Clear
+cancel: Cancel
+confirm: Comfirm
+register: Register
+back: Back
+forget: Forgot Password
+notice: Notice
+view: View
+search: Search
+help: Help
+end: End
+all: All
+device: Device
+video: Video
+filter: Filter
+never_notice: Do not remind again
+loading: Loading
+known: I know
+password: Password
+enter_account: Please enter your account Name
+enter_pwd: Please enter your Password
+error: Error Format
+code: Verification Code
+input_code: Please enter 4-digit code
+diff_pwd: Passwords do not match
+send_code: Send the verification code
+send_again: Send Again
+original_pwd: Original Password
+new_pwd: New Password
+comfirm_pwd: Comfirm Password
+pwd_6: Password length should more than 6
+pwd_18: Password length should less than 18
+pwd_week: Weak password, continuous numbers / letters are not allowed.
+readed: I have read and agree
+protocal: 《AirDwing UAVMS Service Agreement》
+map2D: 2D Map
+map3D: 3D Map
+no_data: No data

@@ -1,1 +1,45 @@
-nofly: Nofly
+title: No-fly Zone
+apply: NFZ Apply
+query: NFZ Query
+approval: NFZ Approval
+name: Name
+location: Location
+type: Type
+time_of_application: Creation time
+start_time: Start time
+end_time: End time
+orginner: Inner
+state: Status
+operation: Operation
+view: View
+yes: Yes
+no: No
+org: Org
+regulator: Department
+under_review: In Processing
+approved: Approved
+rejected: Denied
+deleted: Deleted
+countries: Countries
+city: City
+permanent_nofly: Permanent no-fly zone
+organized_nofly: Organization no-fly zone
+polygon: Polygon
+circular: Circle
+radius: Radius
+latitude: Latitude
+longitude: Longitude
+altitude: Altitude
+default_altitude: Default Altitude
+center_circle: Center
+polygon_nofly_zone: Polygon no-fly zone
+circular_nofly_zone: Circular no-fly zone
+cancel: Cancel
+next: Next
+confirm: Confirm
+return: Return
+submit: Submit
+clear: Clear
+draw_nofly: Draw the no-fly zone
+drawing_area: Click on the left side of the functional area for drawing
+fill_out_application_information: Fill in the application information

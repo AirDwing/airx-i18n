@@ -1,0 +1,10 @@
+  device_search: 北斗设备查询
+  route: 查看轨迹
+  query_date: 选择查询日期
+  no_data: 暂无数据
+  did: 设备号
+  name: 名称
+  beidou_id: 北斗设备号
+  create: 创建时间
+  last_time: 最后离线
+  operation: 操作

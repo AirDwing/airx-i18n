@@ -1,0 +1,7 @@
+  member: Member
+  device: Device
+  nofly: No-fly Zone
+  flight: Flight Plan
+  history: History
+  member_list: Device List
+  device_list: Organization Member
