@@ -48,3 +48,6 @@ frametype_d: 倾转旋翼
 frametype_e: 自转旋翼
 frametype_f: 飞艇
 frametype_g: 其他
+uav_type: 无人机类型
+unbind: 解绑设备
+unbinding: 您正在解绑设备

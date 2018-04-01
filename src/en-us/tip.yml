@@ -37,3 +37,5 @@ protocal: 《AirDwing UAVMS Service Agreement》
 map2D: 2D Map
 map3D: 3D Map
 no_data: No data
+lat: lat
+lng: lng

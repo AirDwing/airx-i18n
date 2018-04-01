@@ -41,3 +41,5 @@ along_line: 沿航线方向
 along_point: 依照每个航点
 scan: 扫描模式
 inner: 区内模式
+custom_focus: 自定义焦距
+eq35mm: 35毫米等效焦距

@@ -38,3 +38,5 @@ protocal: 《大翼云服务协议》
 map2D: 2D地图
 map3D: 3D地图
 no_data: 暂无数据
+lat: 纬度
+lng: 经度

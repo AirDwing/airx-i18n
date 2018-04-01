@@ -43,3 +43,5 @@ scan: Scanning Mode
 inner: Internal Mode
 tip_point: Points is More Than 99
 tip_interval: Photo interval Too Low, Please Lower Flight Overlap <br>  Increase Flight height or Reduce Flight Speed
+custom_focus: Custom Focal Length
+eq35mm: 35mm Equivalent Focal Length

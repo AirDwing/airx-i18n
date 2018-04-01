@@ -49,3 +49,6 @@ linear_airfield: 线形飞行区
 edit_flight_area: 编辑飞行区域
 drawing_area: 点击左侧功能区进行绘制
 fill_in_approval_information: 填写报批信息
+click_start: 单击开始绘制
+gov_refuse: 管局不通过
+fill_instructions: 填写说明

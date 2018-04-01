@@ -48,3 +48,6 @@ frametype_d: Tilt Rotor
 frametype_e: Rotation Rotor
 frametype_f: Airship
 frametype_g: Other
+uav_type: UAV Type
+unbind: Unbind Device
+unbinding: You are Unbinding Device

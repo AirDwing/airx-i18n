@@ -28,3 +28,7 @@ name_of_system: 系统名称
 upload_pictures: 上传图片
 notice: 提示
 deleting_members: 你正在删除成员
+admin: 管理员
+del_members: 删除成员
+deleting: 您正在删除
+members: 的成员
