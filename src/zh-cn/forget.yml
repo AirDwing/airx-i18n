@@ -1,0 +1,10 @@
+  account: 手机号/邮箱
+  code: 验证码
+  send: 发送验证码
+  password: 密码
+  comfirm: 确认密码
+  submit: 提交修改
+  back: 返回登录页面
+  register_submit: 注册
+  protocal_prefix: 我已阅读并同意
+  protocal_name: 《大翼云服务协议》

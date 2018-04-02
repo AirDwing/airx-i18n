@@ -1,0 +1,7 @@
+  username: 用户名/手机号/邮箱
+  password: 密码
+  remember: 记住登录（一个月）
+  login: 登录
+  forget: 忘记密码？
+  register: 立即注册
+  view_protocal: 查看《大翼云服务协议》

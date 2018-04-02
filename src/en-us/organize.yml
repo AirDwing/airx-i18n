@@ -1,0 +1,34 @@
+title: Organization Management
+org_tree: Organization Tree
+org_register: Registe Organization
+org_info: Organization Info
+org_member: Organization Members
+org_name: Organization Name
+org_dec: Organization Descriptions
+certification: Enterprise certification
+certification_state: Certification status
+enterprise_name: Enterprise name
+code: Social unified credit code
+submit: Submit
+cancel: Cancel
+add_member: Add member
+deleted: Delete
+select_account: Select account
+existing_account: Existing
+new_account: New
+avatar: Avatar
+username: Username
+uid: UID
+mobile: Phone
+email: Email
+operation: Operation
+check_members: Check members
+add_suborganizations: Add sub-organizations
+name_of_system: The name of the system
+upload_pictures: Upload pictures
+notice: Notice
+deleting_members: You are deleting members
+admin: admin
+del_members: Delete Members
+deleting: You Are Deleting
+members: Members

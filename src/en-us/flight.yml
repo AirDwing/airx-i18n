@@ -1,0 +1,54 @@
+title: Flight Plan
+apply: Flight Plan Apply
+query: Flight Plan Query
+approval: Flight Plan Approval
+airfield_name: Airfield Name
+devices_number: Device Number
+devices: Devices
+unit: Approval Department
+area: Area
+airspace_uses: Purpose
+max_height: Maximum Flying Altitude
+time_of_application: Submission Time
+start_time: Start Time
+end_time: End Time
+operation: Operation
+view: View
+state: Status
+org: Organization
+regulator: Department
+under_review: In Processing
+approved: Approved
+rejected: Denied
+countries: Country
+city: City
+type: Type
+default_altitude: Default Altitude
+center_circle: Center
+radius: Radius
+latitude: Latitude
+longitude: Longitude
+altitude: Altitude
+takeoff_point: Takeoff Point
+landing_point: Landing Point
+polygon: Polygon
+circular: Circle
+refuse_reason: Denial Reason
+cancel: Cancel
+confirm: Confirm
+return: Return
+submit: Submit
+clear: Clear
+next: Next
+map_selection: Map selection
+landing_point_with_the_takeoff_point: Landing point with the take-off point
+screening: screening
+round_airfield: Round the airfield
+polygon_airfield: Polygon the airfield
+linear_airfield: Linear the airfield
+edit_flight_area: Edit flight area
+drawing_area: Click on the left side of the functional area for drawing
+fill_in_approval_information: Fill in the approval information
+click_start: Click To Start Draw
+gov_refuse: Refused By Gov
+fill_instructions: Fill Instructions

@@ -1,0 +1,29 @@
+detail: Details
+flight_dashboard: Flight Panel
+speed: Relative Ground Speed
+height: Relative Height
+pitch: Pitch
+roll: Roll
+yaw: Yaw
+basic: Basic Information
+remote_control_signal: RC Signal
+image_signal: Video Link Signal
+remote_control_power: RC Power
+drone_power: Drone Power
+battery_temperature: Battery Temperature
+current: Current
+voltage: Voltage
+satellite_number: Numbers of Satellite
+lat: Latitude
+lng: Longitude
+device: Device
+launch: Takeoff
+on: Online
+off: Offline
+error: ERROR
+your_device: Your DEVICE
+push_video: Start to Push，Click to Open Video
+push_pause: Push Stream Have Paused
+already_on: is Online
+already_off: is Offline
+no_video: Video is Disable

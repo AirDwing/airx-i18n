@@ -1,0 +1,53 @@
+title: Devices Management
+register: Registered device
+query: Device Query
+pic: Device Picture
+did: Device ID
+name: Device name
+brand: Brand
+model: Model
+registration: The CAAC civil uav registration number
+msn: Product ID
+fcsn: Flight Control Number
+classification: UAV classification
+last_online_time: Last online time
+last_offline_time: Last offline time
+category: Classification
+empty_weight: Empty Weight(kg）
+flight_full_weight: Takeoff Full Weight(kg)
+other: Other
+state: Status
+operation: Operation
+info: Info
+edit: Edit
+unbundling: Unbundling
+offline: Offline
+abnormal_dropped: Abnormal Offline
+online: Online
+cancel: Cancel
+submit: Submit
+series: Series
+internal_model: Internal model
+associated_with__camera: Associated with the camera
+number_of_rotor: The total number of rotor
+electric_way: Electric way
+wheelbase: Wheelbase
+maximum_battery_life: Maximum Battery Life
+minimum_takeoff_weight: Minimum Takeoff Weight
+maximum_level_flight_speed: Maximum level flight speed
+biggest_rise: The biggest rise
+biggest_drop_speed: The biggest drop speed
+maximum_wind_speed: Maximum wind speed
+plant_protection_uav: Plant Protection Uav
+unmanned_airship: Unmanned Airship
+blos_uav: BLOS Uav(I, II Class)
+frametype_a: Multi Rotor
+frametype_b: Fixed Wing
+frametype_c: Helicopter
+frametype_d: Tilt Rotor
+frametype_e: Rotation Rotor
+frametype_f: Airship
+frametype_g: Other
+uav_type: UAV Type
+unbind: Unbind Device
+unbinding: You are Unbinding Device

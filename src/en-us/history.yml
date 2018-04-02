@@ -1,0 +1,14 @@
+search: Search
+filter:  Advanced Search
+title: History 
+device: Device
+operator: Operator
+start: Start Time
+end: End Time
+duration: Flight Duration
+video: Video
+distance: Distance
+state: State
+operation: Operation
+operator_unit: operator(s)
+device_unit: device(s)

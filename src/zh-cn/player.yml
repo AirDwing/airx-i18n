@@ -1,0 +1,15 @@
+pending_off: 推流已断开,您可以关闭视频，或等待重连
+did: 设备编号
+play_duration: 播放时长
+pending_status: 推流状态
+download_speed: 下载速度
+refresh_chase: 刷新追进
+chase: 追进
+switch_flash: 切换为flash播放器
+status_pending: 等待推流
+status_started: 正在推流
+status_error: 推流断开
+status_default: 等待推流
+ended: 播放结束
+playing: 正在播放
+flash_tip: 您的浏览器未安装Flash或Flash已被禁用，您可以参照以下方法启用Flash，也可以继续使用HTML5播放器。
