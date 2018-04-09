@@ -1,4 +1,4 @@
-welcome: 欢迎您使用大翼鹰眼无人机管理系统，本向导指引您熟悉本系统
+welcome: 欢迎您使用风筝线无人机管理系统，本向导指引您熟悉本系统
 org_create: 如果您是管理员或个人用户请先创建组织
 org_join: 如果您所在的单位已经创建过组织请让管理员将您的账号加入
 org_create_btn: 创建组织
@@ -16,5 +16,5 @@ begin_enter: 进入实时监控页面
 next: 下一步
 step_org: 创建或加入组织
 step_device: 添加设备
-step_safe: 安全飞行 
-step_begin: 开始飞行 
+step_safe: 安全飞行
+step_begin: 开始飞行

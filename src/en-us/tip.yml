@@ -33,7 +33,7 @@ pwd_6: Password length should more than 6
 pwd_18: Password length should less than 18
 pwd_week: Weak password, continuous numbers / letters are not allowed.
 readed: I have read and agree
-protocal: 《AirDwing UAVMS Service Agreement》
+protocal: 《KiteBeam UAVMS Service Agreement》
 map2D: 2D Map
 map3D: 3D Map
 no_data: No data

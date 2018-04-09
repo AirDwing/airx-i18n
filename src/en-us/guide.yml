@@ -1,4 +1,4 @@
-welcome: Welcome to AirDwing UAV Management System. This guide will help You to have a close look at our system.
+welcome: Welcome to KiteBeam UAV Management System. This guide will help You to have a close look at our system.
 org_create: If you are an administrator of your company or a private user, create an organization first.
 org_join: If your company or team has already created an organization, contact your administrator to add your account into the organization list.
 org_create_btn: Create Organization
@@ -16,5 +16,5 @@ begin_enter: Entering The Real-time Monitoring Page
 next: Next Step
 step_org: Create or Join Organization
 step_device: Add Device
-step_safe: Safe Flight 
+step_safe: Safe Flight
 step_begin: Start to Fly

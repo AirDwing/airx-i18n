@@ -1,6 +1,6 @@
 {
   "name": "@airx/i18n",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "The i18n project for AirX",
   "main": "dist/index.js",
   "scripts": {
