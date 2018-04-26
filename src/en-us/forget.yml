@@ -1,10 +1,11 @@
-account: Phone/Email
+account: Mobile/Email
 code: Verification Code
-send: Send the verification code
+send: Send verification code
 password: Password
 comfirm: Comfirm
 submit: Submit
 back: Back to Login Page
 register_submit: Sign Up
 protocal_prefix: I have read and agree
-protocal_name: 《KiteBeam UAVMS Service Agreement》
+protocal_name: KiteBeam UACS Service Agreement
+

@@ -1,4 +1,4 @@
-pending_off: The stream has been disconnected, you can close the window, or wait for reconnection
+pending_off: The stream has been disconnected, you can close the window, or wait for reconnecting.
 did: Device ID
 play_duration: Viedo Duration
 pending_status: Stream Status
@@ -6,10 +6,10 @@ download_speed: Download Speed
 refresh_chase: Refresh and Chase
 chase: Chase
 switch_flash: Switch to Flash Player
-status_pending: Waiting for Stream
+status_pending: Waiting for Stream Push
 status_started: Streaming
 status_error: Stream Disconnected
 status_default: Waiting for Stream
 ended: Play Ended
 playing: Playing
-flash_tip: Your browser is not installed Flash or Flash has been disabled, you can refer to the following methods to enable Flash, or continue using HTML5 player.
+flash_tip: Your browser does not install Flash or Flash has been disabled. Follow the methods below to enable Flash or switch to HTML5.
