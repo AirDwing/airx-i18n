@@ -1,14 +1,14 @@
 title: No-fly Zone
 apply: NFZ Apply
 query: NFZ Query
-approval: NFZ Approval
+approval: NFZ Approvals
 name: Name
 location: Location
 type: Type
 time_of_application: Creation time
 start_time: Start time
 end_time: End time
-orginner: Inner
+orginner: Interior Prohibited
 state: Status
 operation: Operation
 view: View
@@ -20,10 +20,10 @@ under_review: In Processing
 approved: Approved
 rejected: Denied
 deleted: Deleted
-countries: Countries
+countries: Country
 city: City
-permanent_nofly: Permanent no-fly zone
-organized_nofly: Organization no-fly zone
+permanent_nofly: Permanent NFZ
+organized_nofly: Interior NFZ
 polygon: Polygon
 circular: Circle
 radius: Radius
@@ -32,14 +32,14 @@ longitude: Longitude
 altitude: Altitude
 default_altitude: Default Altitude
 center_circle: Center
-polygon_nofly_zone: Polygon no-fly zone
-circular_nofly_zone: Circular no-fly zone
+polygon_nofly_zone: Polygonal NFZ
+circular_nofly_zone: Round NFZ
 cancel: Cancel
 next: Next
 confirm: Confirm
 return: Return
 submit: Submit
 clear: Clear
-draw_nofly: Draw the no-fly zone
-drawing_area: Click on the left side of the functional area for drawing
-fill_out_application_information: Fill in the application information
+draw_nofly: Draw a NFZ
+drawing_area: Choose NFZ shape on the toolbar in the left side
+fill_out_application_information: Fill in the application

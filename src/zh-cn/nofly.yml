@@ -42,5 +42,5 @@ return: 返回
 submit: 提交
 clear: 清除
 draw_nofly: 绘制禁飞区域
-drawing_area: 点击左侧功能区进行绘制
+drawing_area: 点击左侧工具条选择禁飞区类型
 fill_in_application_information: 填写申请信息

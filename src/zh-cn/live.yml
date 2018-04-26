@@ -26,4 +26,4 @@ push_video: 已开始推流，可点击打开视频
 push_pause: 推流已中断
 already_on: 已上线
 already_off: 已下线
-no_video: 暂无视频
+no_video: 暂无视频推流

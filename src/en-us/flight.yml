@@ -40,15 +40,15 @@ return: Return
 submit: Submit
 clear: Clear
 next: Next
-map_selection: Map selection
-landing_point_with_the_takeoff_point: Landing point with the take-off point
-screening: screening
-round_airfield: Round the airfield
-polygon_airfield: Polygon the airfield
-linear_airfield: Linear the airfield
-edit_flight_area: Edit flight area
-drawing_area: Click on the left side of the functional area for drawing
-fill_in_approval_information: Fill in the approval information
-click_start: Click To Start Draw
-gov_refuse: Refused By Gov
-fill_instructions: Fill Instructions
+map_selection: Map Selection
+landing_point_with_the_takeoff_point: Landing Point Same with the Takeoff Point
+screening: Filter
+round_airfield: Round Flight Zone
+polygon_airfield: Polygon Flight Zone
+linear_airfield: Linear Flight Zone
+edit_flight_area: Edit Flight Zone
+drawing_area: Choose Flight Zone shape on the toolbar on the left side
+fill_in_approval_information: Fill in the application information
+click_start: Click to Start
+gov_refuse: Denied by the Department
+fill_instructions: Filling Instruction

@@ -5,7 +5,7 @@ org_create_btn: 创建组织
 org_join_btn: 我已加入组织
 device_add_app: 您可以使用移动设备APP自动识别序列号添加（对于DJI设备）
 device_down_app: 使用安卓手机扫码下载
-device_add_web: 您也可以在网页版中手动添加，请填写飞控序列号
+device_add_web: 您也可以在网页版中手动添加。
 device_add_btn: 添加设备
 device_down_btn: 下载APP
 safe_title: 本系统内带有禁飞区与政策法规查询功能供您参考

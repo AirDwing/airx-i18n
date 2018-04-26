@@ -1,7 +1,7 @@
 home: Home
 route_plan: Route Plan
-fly_record: 
-live: Live Monitor
+fly_record: Flight History
+live: Real-time Monitor
 history: History Record
 beidou: Beidou Route
 flight_plan: Flight Plan
@@ -20,9 +20,9 @@ org_manage: Organization Manage
 org_info: Organization Info
 org_member: Organization Member
 org_custom: Custom Manage
-policy: Policies&Regulations
+policy: Policies & Regulations
 insurance: Insurance Purchase
 user_info: User Information
-user_auth: User Authentication
-user_modify: User Info Modify
+user_auth: User Verification
+user_modify: Setting
 guide: User Guide

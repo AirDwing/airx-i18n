@@ -29,10 +29,10 @@ submit: 提交
 series: 系列
 internal_model: 内部型号
 associated_with__camera: 关联相机
-number_of_rotor: 旋翼总数
-electric_way: 电动方式
+number_of_rotor: 旋翼数量
+electric_way: 动力方式
 wheelbase: 轴距
-maximum_battery_life: 最大续航时间
+maximum_battery_life: 最大飞行时间
 minimum_takeoff_weight: 最小起飞重量
 maximum_level_flight_speed: 最大水平飞行速度
 biggest_rise: 最大上升速度

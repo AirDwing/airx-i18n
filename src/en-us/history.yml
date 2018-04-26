@@ -1,5 +1,5 @@
 search: Search
-filter:  Advanced Search
+filter: Advanced Search
 title: History 
 device: Device
 operator: Operator
@@ -8,7 +8,7 @@ end: End Time
 duration: Flight Duration
 video: Video
 distance: Distance
-state: State
+state: Status
 operation: Operation
 operator_unit: operator(s)
 device_unit: device(s)

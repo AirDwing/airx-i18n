@@ -1,10 +1,10 @@
 device_search: BeiDou Device Query
 route: Route View
-query_date: Select Query Date
+query_date: Select Date
 no_data: No Data
-did: Did
+did: Device ID
 name: Name
-beidou_id: Beidou Id
+beidou_id: Beidou ID
 create: Create Date
-last_time: Offline Date
+last_time: Last Active
 operation: Operation

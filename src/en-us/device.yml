@@ -1,15 +1,15 @@
 title: Devices Management
-register: Registered device
+register: Device Register
 query: Device Query
 pic: Device Picture
 did: Device ID
-name: Device name
+name: Device Name
 brand: Brand
 model: Model
-registration: The CAAC civil uav registration number
-msn: Product ID
-fcsn: Flight Control Number
-classification: UAV classification
+registration: The CAAC Registration Number of Civil UAS
+msn: Product Serial Number
+fcsn: Flight Controller Serial Number
+classification: UAS Classification
 last_online_time: Last online time
 last_offline_time: Last offline time
 category: Classification
@@ -20,34 +20,34 @@ state: Status
 operation: Operation
 info: Info
 edit: Edit
-unbundling: Unbundling
+unbundling: Delete
 offline: Offline
-abnormal_dropped: Abnormal Offline
+abnormal_dropped: Abnormal Disconnected
 online: Online
 cancel: Cancel
 submit: Submit
 series: Series
 internal_model: Internal model
-associated_with__camera: Associated with the camera
-number_of_rotor: The total number of rotor
-electric_way: Electric way
-wheelbase: Wheelbase
-maximum_battery_life: Maximum Battery Life
+associated_with__camera: Camera Associated
+number_of_rotor: Number of Rotors
+electric_way: Power Mode
+wheelbase: Diagonal Size
+maximum_battery_life: Max Flight Time
 minimum_takeoff_weight: Minimum Takeoff Weight
-maximum_level_flight_speed: Maximum level flight speed
-biggest_rise: The biggest rise
-biggest_drop_speed: The biggest drop speed
-maximum_wind_speed: Maximum wind speed
-plant_protection_uav: Plant Protection Uav
+maximum_level_flight_speed: Max Speed
+biggest_rise: Max Ascent Speed
+biggest_drop_speed: Max Descent Speed
+maximum_wind_speed: Max Wind Speed Resistance
+plant_protection_uav: Agricultural UAS
 unmanned_airship: Unmanned Airship
-blos_uav: BLOS Uav(I, II Class)
-frametype_a: Multi Rotor
-frametype_b: Fixed Wing
+blos_uav: UAS Operated BVLOS (Class I, II)
+frametype_a: Multicopter
+frametype_b: Fixed-wing
 frametype_c: Helicopter
-frametype_d: Tilt Rotor
-frametype_e: Rotation Rotor
+frametype_d: Tiltrotor
+frametype_e: Autogyro
 frametype_f: Airship
 frametype_g: Other
-uav_type: UAV Type
+uav_type: UAS Class
 unbind: Unbind Device
 unbinding: You are Unbinding Device
