@@ -17,7 +17,7 @@ filter: 筛选
 never_notice: 不再提示
 loading: 加载中
 known: 知道了
-forget: 忘记密码
+forget: 忘记密码?
 password: 密码
 enter_account: 请输入账号
 enter_pwd: 请输入密码
@@ -27,7 +27,7 @@ input_code: 请输入4位验证码
 diff_pwd: 两次密码不一致
 send_code: 发送验证吗
 send_again: 重新获取
-original_pwd: 原始密码
+original_pwd: 现密码
 new_pwd: 新密码
 comfirm_pwd: 确认密码
 pwd_6: 密码长度需大于6位

@@ -24,7 +24,7 @@ wayangle: 主航线角度
 gimbalpitch: 云台俯仰角度
 finished_action: 任务完成动作
 exit: 无信号退出任务
-ori_mode_p: 平行于主航线
+ori_mode_p: 平行于主航向
 ori_mode_v: 垂直于主航向
 shoot_stay: 航点悬停拍照
 shoot_bytime: 等时间隔拍照
@@ -43,3 +43,5 @@ scan: 扫描模式
 inner: 区内模式
 custom_focus: 自定义焦距
 eq35mm: 35毫米等效焦距
+tip_point: 航线点超出范围了
+tip_interval: ？？？
